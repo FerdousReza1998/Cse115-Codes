@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1594288590 source:e:\codes\example 1\decimel.c
+	<stdio.h>
+	<stdlib.h>
+
+1594288643 source:e:\codes\example 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1594288643 source:e:\codes\example 1\name.c
+	<stdio.h>
+	<stdlib.h>
+
+1594288526 source:e:\codes\example 1\number.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1594273450 source:c:\users\user\documents\codes\myprogram\hello_nsu\hello_nsu.c
+
+1594274068 source:c:\users\user\documents\codes\myprogram\hello_nsu\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1594274878 source:e:\codes\hello_nsu\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1594275202 source:e:\codes\hello_nsu\hello_nsu.c
+	<stdio.h>
+	<stdlib.h>
+

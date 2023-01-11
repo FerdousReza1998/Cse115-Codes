@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598971087 source:e:\codes\home practise\cosx\main.c
+	<stdio.h>
+	<stdlib.h>
+

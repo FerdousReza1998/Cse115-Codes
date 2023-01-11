@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601211890 source:e:\codes\manuals\files\file functions\read and write structure from file\main.c
+	<stdio.h>
+	<stdlib.h>
+

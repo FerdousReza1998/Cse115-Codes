@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596644258 source:e:\codes\manuals\manual 9\functions\man9_exercise2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

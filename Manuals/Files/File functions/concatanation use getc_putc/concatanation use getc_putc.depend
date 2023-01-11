@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601429580 source:e:\codes\manuals\files\file functions\concatanation use getc_putc\main.c
+	<stdio.h>
+	<stdlib.h>
+

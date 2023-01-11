@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598343120 source:e:\codes\manuals\recursion\fibbonacci_using_loop\main.c
+	<stdio.h>
+	<stdlib.h>
+

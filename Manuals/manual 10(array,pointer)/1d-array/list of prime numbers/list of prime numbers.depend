@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599451232 source:e:\codes\manuals\manual 10\1d-array\list of prime numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601428797 source:e:\codes\manuals\files\file functions\copy contents of file use_getc putc\main.c
+	<stdio.h>
+	<stdlib.h>
+

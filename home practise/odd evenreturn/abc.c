@@ -1,0 +1,2 @@
+#include <stdio.h> #include <stdlib.h>
+int main() { float x , sum ; char ch; printf(" Enter the weight value : "); scanf("%f" ,&x); printf(" Enter conversion request:\n 'M' for converting imperial to metric or 'I' for converting metric to imperial : "); scanf(" %c" ,&ch); if(ch=='M') { sum = x*0.454; printf("\n %.3f kg\n", sum); } else if(ch=='I') { sum = x*2.205; printf("\n %.3f pound\n", sum); } else { printf("\n Wrong input\n"); } return 0; }
